@@ -1,4 +1,4 @@
 # Git Commands
 
 ### Useful Links
-[Книга Гіт Про](https://git-scm.com/book/uk/v2_)
+[Git Pro Book (ukr)](https://git-scm.com/book/uk/v2_)
